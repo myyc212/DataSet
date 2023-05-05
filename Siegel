@@ -1,20 +1,20 @@
 Mutant,T50,deltaT50,Expression
-V311D,41.7,-3.7,soluble
-V311D,41.7,-3.7,soluble
-V311D,41.9,-3.5,soluble
-Y166Ha,44.5,-0.9,soluble
-Y166Ha,44.4,-1,soluble
-Y166Ha,44.5,-0.9,soluble
-Y166Hb,44.4,-1,soluble
-Y166Hb,44,-1.4,soluble
-Y166Hb,44,-1.4,soluble
-M221Ka,46.6,1.2,nonisolated
-M221Ka,46.5,1.1,nonisolated
-M221Ka,46.5,1.1,nonisolated
-M221Kb,46.4,1,nonisolated
-M221Kb,46.3,0.9,nonisolated
-M221Kb,46.4,1,nonisolated
-F248N,51.1,5.7,nonisolated
-F248N,49.7,4.3,nonisolated
-F248N,50.2,4.8,nonisolated
-Y166K,60.4,15,nonisolated
+V311D,41.7,-3.7,solubley
+V311D,41.7,-3.7,solubley
+V311D,41.9,-3.5,solubley
+Y166Ha,44.5,-0.9,solubley
+Y166Ha,44.4,-1,solubley
+Y166Ha,44.5,-0.9,solubley
+Y166Hb,44.4,-1,solubley
+Y166Hb,44,-1.4,solubley
+Y166Hb,44,-1.4,solubley
+M221Ka,46.6,1.2,non-solubley isolated
+M221Ka,46.5,1.1,non-solubley isolated
+M221Ka,46.5,1.1,non-solubley isolated
+M221Kb,46.4,1,non-solubley isolated
+M221Kb,46.3,0.9,non-solubley isolated
+M221Kb,46.4,1,non-solubley isolated
+F248N,51.1,5.7,non-solubley isolated
+F248N,49.7,4.3,non-solubley isolated
+F248N,50.2,4.8,non-solubley isolated
+Y166K,60.4,15,non-solubley isolated
